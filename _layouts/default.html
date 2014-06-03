@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <meta name="author" content="{{ site.name }}" />
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+          
+          <nav>
+            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% if site.footer-links.dribbble %}<a href="http://dribbble.com/{{ site.footer-links.dribbble }}">{% include svg-icons/dribbble.html %}</a>{% endif %}
+          {% if site.footer-links.email %}<a href="mailto: {{ site.footer-links.email }}">{% include svg-icons/email.html %}</a>{% endif %}
+          {% if site.footer-links.facebook %}<a href="http://facebook.com/{{ site.footer-links.facebook }}">{% include svg-icons/facebook.html %}</a>{% endif %}
+          {% if site.footer-links.flickr %}<a href="http://flickr.com/{{ site.footer-links.flickr }}">{% include svg-icons/flickr.html %}</a>{% endif %}
+          {% if site.footer-links.github %}<a href="http://github.com/{{ site.footer-links.github }}">{% include svg-icons/github.html %}</a>{% endif %}
+          {% if site.footer-links.instagram %}<a href="http://instagram.com/{{ site.footer-links.instagram }}">{% include svg-icons/instagram.html %}</a>{% endif %}
+          {% if site.footer-links.linkedin %}<a href="http://linkedin.com/in/{{ site.footer-links.linkedin }}">{% include svg-icons/linkedin.html %}</a>{% endif %}
+          {% if site.footer-links.pinterest %}<a href="http://pinterest.com/{{ site.footer-links.pinterest }}">{% include svg-icons/pinterest.html %}</a>{% endif %}
+          {% if site.footer-links.rss %}<a href="{{ site.baseurl }}/feed.xml">{% include svg-icons/rss.html %}</a>{% endif %}
+          {% if site.footer-links.twitter %}<a href="http://twitter.com/{{ site.footer-links.twitter }}">{% include svg-icons/twitter.html %}</a>{% endif %}
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
