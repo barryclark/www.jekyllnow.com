@@ -3,7 +3,7 @@ layout: post
 title: Markdown Style Guide
 ---
 
-A demo of all styled elements in Jekyll Kickstart. 
+A demo of all styled elements in Jekyll Now. 
 
 This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
@@ -12,11 +12,11 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
 #### Header 4 ####
 ##### Header 5 #####
  
-A link to [Jekyll Kickstart](http://github.com/barryclark/jekyll-kickstart/). A big ass literal link <http://github.com/barryclark/jekyll-kickstart/>
+A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
   
 An image, located within /images
 
-![an image alt text](/images/omg-code.jpg "an image title")
+![an image alt text]({{ site.baseurl }}/images/omg-code.jpg "an image title")
 
 * A bulletted list
 - alternative syntax 1
@@ -46,10 +46,8 @@ var rawr = ["r", "a", "w", "r"];
 creates...
 
 {% highlight javascript %}
- 
 /* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-
+var rawr = ["r", "a", "w", "r"]
 {% endhighlight %}
  
 Use two trailing spaces  
