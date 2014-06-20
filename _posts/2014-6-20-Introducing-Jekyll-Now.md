@@ -13,4 +13,26 @@ title: Introducing Jekyll Now
 - It's easy to try out, you can just delete your forked repository if you don't like it
 - In a few minutes you'll be set up with a minimal, responsive blog just like this one—giving you more time to spend on making your blog awesome!
 
+Check out the installation workflow at the [**Jekyll Now repository**](http://github.com/barryclark/jekyll-now#quick-start).
+
+### Jekyll Now Features
+
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
+✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
+✓ Sass/Coffeescript support using Jekyll 2.0  
+✓ Free hosting on your GitHub Pages user site  
+✓ Markdown blogging  
+✓ Syntax highlighting  
+✓ Disqus commenting  
+✓ Google Analytics integration  
+✓ SVG social icons for your footer  
+✓ 3 http requests, including your avatar  
+✓ Emoji in blog posts! :sparkling_heart: :sparkling_heart: :sparkling_heart:  
+
+✘ No installing dependancies  
+✘ No need to set up local development  
+✘ No configuring plugins  
+✘ No need to spend time on theming  
+✘ More time to code other things ... wait ✓! 
+
 Get started with the [**Quick Start in the Jekyll Now repository**](http://github.com/barryclark/jekyll-now#quick-start).
