@@ -5,7 +5,7 @@ title: Introducing Jekyll Now
 
 [Jekyll](http://github.com/jekyll/jekyll) is a static site generator that's perfect for GitHub hosted blogs.
 
-_[Jekyll Now](http://github.com/barryclark/jekyll-now) makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup._
+[Jekyll Now](http://github.com/barryclark/jekyll-now) makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
 
 - You don't need to touch the command line
 - You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
