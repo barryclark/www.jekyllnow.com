@@ -5,7 +5,7 @@ title: About
 
 Jekyll Now illustrates the easiest possible workflow for setting up a Jekyll powered blog. My goal is for you to be able to use it to set up your blog as quickly as possible—giving you more time to spend on writing epic blog posts!
 
-## Jekyll Now Features
+## Features
 
 ✓ _Command-line free fork-first workflow_, using GitHub.com to create, customize and post to your blog  
 ✓ Fully responsive and mobile optimized base theme ([Theme Demo](http://jekyllnow.com))  
