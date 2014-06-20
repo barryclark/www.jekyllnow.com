@@ -3,9 +3,9 @@ layout: post
 title: Introducing Jekyll Now
 ---
 
-[**Jekyll**](http://github.com/jekyll/jekyll) is a static site generator that's perfect for GitHub hosted blogs.
+[Jekyll](http://github.com/jekyll/jekyll) is a static site generator that's perfect for GitHub hosted blogs.
 
-[**Jekyll Now**](http://github.com/barryclark/jekyll-now) makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
+[Jekyll Now](http://github.com/barryclark/jekyll-now) makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
 
 - You don't need to touch the command line
 - You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
@@ -13,12 +13,12 @@ title: Introducing Jekyll Now
 - It's easy to try out, you can just delete your forked repository if you don't like it
 - In a few minutes you'll be set up with a minimal, responsive blog just like this one—giving you more time to spend on making your blog awesome!
 
-Check out the installation workflow at the [**Jekyll Now repository**](http://github.com/barryclark/jekyll-now#quick-start).
+Check out the installation workflow at the [Jekyll Now repository](http://github.com/barryclark/jekyll-now#quick-start).
 
 ### Jekyll Now Features
 
 ✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
+✓ Fully responsive and mobile optimized base theme ([Theme Demo](http://jekyllnow.com))  
 ✓ Sass/Coffeescript support using Jekyll 2.0  
 ✓ Free hosting on your GitHub Pages user site  
 ✓ Markdown blogging  
@@ -35,4 +35,4 @@ Check out the installation workflow at the [**Jekyll Now repository**](http://gi
 ✘ No need to spend time on theming  
 ✘ More time to code other things ... wait ✓! 
 
-Get started with the [**Quick Start in the Jekyll Now repository**](http://github.com/barryclark/jekyll-now#quick-start).
+Get started with the [Quick Start in the Jekyll Now repository](http://github.com/barryclark/jekyll-now#quick-start).
