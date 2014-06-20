@@ -33,8 +33,8 @@ Here's a sample:
 
 ![Initial setup of Jekyll Now]({{ site.baseurl }}/images/step1.gif "Initial setup of Jekyll Now")
 
-## Get in touch
+## Requests
 
-If you have questions about Jekyll Now working or feature requests I'd appreciate if you could [open an issue](https://github.com/barryclark/jekyll-now/issues/new) to chat about them so that everyone can benefit.
+If you have questions about Jekyll Now working or feature requests I'd appreciate if you [open an issue](https://github.com/barryclark/jekyll-now/issues/new) to chat about them so that everyone can benefit.
 
-You can get in contact in other ways by clicking the links below. 
+Get in touch with me using the links below.
