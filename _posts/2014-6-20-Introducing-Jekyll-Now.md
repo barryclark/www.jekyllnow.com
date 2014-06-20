@@ -17,7 +17,7 @@ title: Introducing Jekyll Now
 
 ### Jekyll Now Features
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
+✓ _Command-line free fork-first workflow_, using GitHub.com to create, customize and post to your blog  
 ✓ Fully responsive and mobile optimized base theme ([Theme Demo](http://jekyllnow.com))  
 ✓ Sass/Coffeescript support using Jekyll 2.0  
 ✓ Free hosting on your GitHub Pages user site  
