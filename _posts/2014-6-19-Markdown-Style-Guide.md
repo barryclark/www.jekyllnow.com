@@ -61,5 +61,3 @@ Finally, horizontal lines
  
 ----
 ****
-
-Enjoy!
