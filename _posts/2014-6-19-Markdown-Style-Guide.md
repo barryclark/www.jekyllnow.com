@@ -50,7 +50,7 @@ creates...
 
 {% highlight javascript %}
 /* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"]
+var rawr = ["r", "a", "w", "r"];
 {% endhighlight %}
  
 Use two trailing spaces  
