@@ -13,7 +13,7 @@ title: Introducing Jekyll Now
 - It's easy to try out, you can just delete your forked repository if you don't like it
 - In a few minutes you'll be set up with a minimal, responsive blog just like this one—giving you more time to spend on making your blog awesome!
 
-Check out the installation workflow at the [Jekyll Now repository](http://github.com/barryclark/jekyll-now#quick-start).
+![Initial setup of Jekyll Now](https://github.com/barryclark/jekyll-now/blob/master/images/step1.gif "Initial setup of Jekyll Now")
 
 ### Jekyll Now Features
 
