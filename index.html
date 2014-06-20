@@ -11,6 +11,10 @@ layout: default
       <div class="entry">
         {{ post.content }}
       </div>
+
+      <div class="date">
+	    Written on {{ page.date | date: "%B %e, %Y" }}
+	  </div>
     </article>
   {% endfor %}
 </div>
