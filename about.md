@@ -5,14 +5,6 @@ title: About
 
 Jekyll Now illustrates the easiest possible workflow for setting up a Jekyll powered blog. My goal is for you to be able to use it to set up your blog as quickly as possible—giving you more time to spend on writing epic blog posts!
 
-## That 2–3 minute set up
-
-Check out the [Quick Start in the Jekyll Now repository](http://github.com/barryclark/jekyll-now#quick-start).
-
-Here's a sample:
-
-![Initial setup of Jekyll Now]({{ site.baseurl }}/images/step1.gif "Initial setup of Jekyll Now")
-
 ## Jekyll Now Features
 
 ✓ _Command-line free fork-first workflow_, using GitHub.com to create, customize and post to your blog  
@@ -32,6 +24,14 @@ Here's a sample:
 ✘ No configuring plugins  
 ✘ No need to spend time on theming  
 ✘ More time to code other things ... wait ✓! 
+
+## That 2–3 minute set up
+
+Check out the [Quick Start in the Jekyll Now repository](http://github.com/barryclark/jekyll-now#quick-start).
+
+Here's a sample:
+
+![Initial setup of Jekyll Now]({{ site.baseurl }}/images/step1.gif "Initial setup of Jekyll Now")
 
 ## Get in touch
 
