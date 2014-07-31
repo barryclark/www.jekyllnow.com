@@ -37,4 +37,4 @@ title: Introducing Jekyll Now
 ✘ No need to spend time on theming  
 ✘ More time to code other things ... wait ✓! 
 
-Get started with the [Quick Start in the Jekyll Now repository](http://github.com/barryclark/jekyll-now#quick-start).
+[Quick Start walkthrough on the Jekyll Now GitHub repository](http://github.com/barryclark/jekyll-now#quick-start).
