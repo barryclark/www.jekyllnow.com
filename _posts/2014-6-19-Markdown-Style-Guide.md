@@ -3,7 +3,7 @@ layout: post
 title: Markdown Style Guide
 ---
 
-This is a demo of all styled elements in Jekyll Now. 
+This is a demo of all styled elements in Jekyll Now.
 
 [View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
 
@@ -14,9 +14,9 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
 ### Header 3
 
 #### Header 4
- 
+
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-  
+
 An image, located within /images
 
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
@@ -30,16 +30,16 @@ An image, located within /images
 2. ordered
 3. list
 
-Inline markup styles: 
+Inline markup styles:
 
 - _italics_
 - **bold**
-- `code()` 
- 
+- `code()`
+
 > Blockquote
->> Nested Blockquote 
- 
-Syntax highlighting can be used by wrapping your code in a liquid tag like so:
+>> Nested Blockquote
+
+Syntax highlighting can be used with triple backticks, like so:
 
 {{ "{% highlight javascript " }}%}  
 /* Some pointless Javascript */
@@ -48,16 +48,16 @@ var rawr = ["r", "a", "w", "r"];
 
 creates...
 
-{% highlight javascript %}
+```javascript
 /* Some pointless Javascript */
 var rawr = ["r", "a", "w", "r"];
 {% endhighlight %}
- 
+
 Use two trailing spaces  
 on the right  
 to create linebreak tags  
- 
+
 Finally, horizontal lines
- 
+
 ----
 ****

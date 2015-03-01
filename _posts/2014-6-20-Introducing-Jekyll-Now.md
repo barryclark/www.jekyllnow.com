@@ -29,7 +29,6 @@ title: Introducing Jekyll Now
 ✓ Google Analytics integration  
 ✓ SVG social icons for your footer  
 ✓ 3 http requests, including your avatar  
-✓ Emoji in blog posts! :sparkling_heart: :sparkling_heart: :sparkling_heart:  
 
 ✘ No installing dependancies  
 ✘ No need to set up local development  
