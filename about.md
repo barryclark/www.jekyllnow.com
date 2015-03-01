@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 Jekyll Now illustrates the easiest possible workflow for setting up a Jekyll powered blog. My goal is for you to be able to use it to set up your blog as quickly as possible—giving you more time to spend on writing epic blog posts!
@@ -17,7 +18,6 @@ Jekyll Now illustrates the easiest possible workflow for setting up a Jekyll pow
 ✓ Google Analytics integration  
 ✓ SVG social icons for your footer  
 ✓ 3 http requests, including your avatar  
-✓ Emoji in blog posts! :sparkling_heart: :sparkling_heart: :sparkling_heart:  
 
 ✘ No installing dependancies  
 ✘ No need to set up local development  
