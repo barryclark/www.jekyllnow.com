@@ -41,10 +41,10 @@ Inline markup styles:
 
 Syntax highlighting can be used with triple backticks, like so:
 
-{{ "{% highlight javascript " }}%}  
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-{{ "{% endhighlight " }}%}  
+{{ "```javascript" }}  
+/* Some pointless Javascript */  
+var rawr = ["r", "a", "w", "r"];  
+{{ "```" }}  
 
 creates...
 
